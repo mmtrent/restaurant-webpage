@@ -1,0 +1,25 @@
+{
+  "name": "panuccis-pizza",
+  "version": "1.0.0",
+  "description": "Fictitious restaurant page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmtrent/panuccis-pizza.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmtrent/panuccis-pizza/issues"
+  },
+  "homepage": "https://github.com/mmtrent/panuccis-pizza#readme",
+  "devDependencies": {
+    "css-loader": "^6.7.1",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
